@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 Just testing out a link [Link](/pages/one.html)
 
+Test Link #2 [NewLink](/pages/two.html)
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes

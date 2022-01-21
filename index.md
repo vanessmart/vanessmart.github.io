@@ -2,7 +2,7 @@
 layout: default
 ---
 # See Below Info
-## if you like interesting things!
+## if you like interesting computer things!
 
 
 ### Miscellaneous Notes:
@@ -14,5 +14,9 @@ layout: default
 - [Terminal](/_posts/terminal.html)
 
 
-### Favorite things:
+### Retrespect:
+- [Kiddo](/_posts/kiddo.html)
+- [What's the plan here](/_posts/whatstheplanhere.html)
+- [Milestones](/_posts/milestones.html)
+- [Pluto's not a planet anymore](/_posts/pluto.html)
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 ---
+notes taken from [OpsMx Blog](https://www.opsmx.com/blog/what-is-a-ci-cd-pipeline/)
 
 # CICD Pipelines
 

@@ -14,7 +14,7 @@ layout: default
 - [Terminal](/_posts/terminal.html)
 
 
-### Retrespect:
+### Retrospect:
 - [Kiddo](/_posts/kiddo.html)
 - [What's the plan here](/_posts/whatstheplanhere.html)
 - [Milestones](/_posts/milestones.html)

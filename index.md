@@ -2,7 +2,7 @@
 layout: default
 ---
 # See Below Info
-## if you like interesting computer things!
+# if you like interesting computer things!
 
 
 ### Miscellaneous Notes:

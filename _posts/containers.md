@@ -34,26 +34,26 @@ ____
 ____
 
 Container only exists as long as it continues to execute what we asked it to execute:
-	**ex: 
-	`docker exec -it zebra top (execute top on Zebra container)`
-	`> output`
-	`exit`
+- ex: 
+`docker exec -it zebra top (execute top on Zebra container)`
+`> output`
+`exit`
 
 *Note - We ran the container on bash so when we tell it to exit, it quit running. Our execution of 'top' from the docker command from above ended also because the container was only set to run bash (once told to exit, it exited all 'jobs' also).*
 
 ---
 
-#### Difference between Containers & VMs
-**Containers 
-* OS level
-* Isolation of the process
-* apps/processes running independently from each other
+### Difference between Containers & VMs
+* Containers 
+	* OS level
+	* Isolation of the process
+	* apps/processes running independently from each other
 
 
-**Virtual Machines 
-* Hardware/machine level
-* Isolation of the machine
-* Machines running independently from each other
+* Virtual Machines 
+	* Hardware/machine level
+	* Isolation of the machine
+	* Machines running independently from each other
 
 
 

@@ -7,7 +7,7 @@ layout: post
 
 What a stupid question, meant to spark the start of a solution we know must be figured out. 
 
-"What exactly is your plan here", a question I've asked myself many times and has led to great and stupid things. 
+"What exactly is your plan here", a question I've asked myself many times; it hasled to great and stupid things. 
 
 Imagine this.
 I'm in my car, hanging off the edge of a cliff. The tilting back and forth and uncertainty of where I'm going has hit the back of my knees some minutes ago now. I am rocking slowly forward and backward, and wondering to myself which one is truly the best option. 

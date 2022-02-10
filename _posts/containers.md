@@ -2,7 +2,7 @@
 layout: post
 ---
 
-# Containers 
+# Containers! 
 - What Does Containerization Mean for DevOps? 
 	- Containerization entails **placing a software component and its environment, dependencies, and configuration, into an isolated unit called a container**. This makes it possible to deploy an application consistently on any computing environment, whether on-premises or cloud-based.
 

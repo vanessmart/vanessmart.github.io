@@ -4,6 +4,8 @@ layout: default
 # See Below Info!
 # if you like interesting computer things!!!
 
+[pic](/_images/sedona_pic.png)
+
 
 ### Miscellaneous Notes:
 - [Test Link](/_posts/2022-01-20-web-how.html)
